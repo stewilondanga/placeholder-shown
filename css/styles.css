@@ -9,6 +9,10 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -32,9 +36,6 @@ body {
   height: 1.5em;
 }
 
-* {
-  box-sizing: border-box;
-}
 .inp {
   position: relative;
   margin: auto;
