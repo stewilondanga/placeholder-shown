@@ -83,11 +83,12 @@ body {
   transform: translateY(-26px) scale(0.75);
 }
 
-/*.inp input:focus {
+.inp input:focus {
   background: none;
   outline: none;
 }
-.inp input:focus + span {
+
+/*.inp input:focus + span {
   color: #07f;
   transform: translateY(-26px) scale(0.75);
 }
