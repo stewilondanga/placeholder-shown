@@ -28,13 +28,14 @@ body {
   height: 1.5em;
 }
 
-/*.inp {
+.inp {
   position: relative;
   margin: auto;
   width: 100%;
   max-width: 280px;
 }
-.inp .label {
+
+/*.inp .label {
   position: absolute;
   top: 16px;
   left: 0;
