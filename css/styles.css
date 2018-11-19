@@ -93,11 +93,11 @@ body {
   transform: translateY(-26px) scale(0.75);
 }
 
-/*.inp input:focus + span + .border {
+.inp input:focus+span+.border {
   transform: scaleX(1);
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
