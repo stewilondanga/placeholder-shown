@@ -2,6 +2,13 @@ html, body {
   height: 100%;
 }
 
+body {
+  display: grid;
+  font-family: Avenir;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -25,12 +32,6 @@ html, body {
   height: 1.5em;
 }
 
-body {
-  display: grid;
-  font-family: Avenir;
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-smoothing: antialiased;
-}
 * {
   box-sizing: border-box;
 }
